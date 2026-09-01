@@ -44,7 +44,7 @@
 
 ```yaml
 identidade:
-  nome: "Weslley Vinicius Marques de MElo"
+  nome: "Weslley Vinicius Marques de Melo"
   alias: "weslley122"
   localização: "Macapá, PA"
   função: "Desenvolvedor(a) Full-Stack"
