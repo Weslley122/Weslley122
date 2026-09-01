@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SYSTEM%20ACCESS%20COUNT&color=00fff9&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Weslley vinicius&label=SYSTEM%20ACCESS%20COUNT&color=00fff9&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff9?style=for-the-badge&labelColor=0f0c29)
 ![Uptime](https://img.shields.io/badge/UPTIME-∞-ff00ff?style=for-the-badge&labelColor=0f0c29)
 
@@ -19,18 +19,18 @@
 <br/>
 
 <!-- ===================== BOOT SEQUENCE ===================== -->
-<div align="center">
+<div alignh="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  BOOT SEQUENCE INITIATED...                                    ║
-╠══════════════════════════════════════════════════════════════╣
-║  > Loading kernel modules ............................ [OK]    ║
-║  > Mounting developer core ............................ [OK]    ║
-║  > Establishing neural link ........................... [OK]    ║
-║  > Syncing GitHub activity stream ..................... [OK]    ║
-║  > IDENTITY CONFIRMED: SEU_NOME [J.A.R.V.I.S PROTOCOL]          ║
-╚══════════════════════════════════════════════════════════════╝
+```ansi
+[0;36m╔══════════════════════════════════════════════════════════════╗[0m
+[0;36m║[0m  [1;32mBOOT SEQUENCE INITIATED...[0m                                    [0;36m║[0m
+[0;36m╠══════════════════════════════════════════════════════════════╣[0m
+[0;36m║[0m  [0;37m> Loading kernel modules ............................ [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Mounting developer core ............................ [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Establishing neural link ........................... [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Syncing GitHub activity stream ..................... [OK][0m    [0;36m║[0m
+[0;36m║[0m  [1;35m> IDENTITY CONFIRMED: SEU_NOME [J.A.R.V.I.S PROTOCOL][0m         [0;36m║[0m
+[0;36m╚══════════════════════════════════════════════════════════════╝[0m
 ```
 
 </div>
@@ -38,16 +38,16 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-<h2 align="center">`01.` SOBRE_MIM.exe</h2>
+## `01.` <img src="https://media.tenor.com/hSTeSSmpJmMAAAAi/mrbeast-crazy.gif" width="0"/> SOBRE_MIM.exe
 
 <img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 identidade:
-  nome: "Weslley Vinicius Marques de Melo"
-  alias: "weslley122"
+  nome: "Weslley vinicius"
+  alias: "Weslley122"
   localização: "Macapá, PA"
-  função: "Desenvolvedor(a) Full-Stack"
+  função: "Desenvolvedor Full-Stack"
 
 características:
   - 🧠 Aprendizado contínuo e curiosidade orientada a dados
@@ -64,7 +64,7 @@ filosofia: >
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-<h2 align="center">`02.` TECH_STACK.sys</h2>
+## `02.` TECH_STACK.sys
 
 <div align="center">
 
@@ -82,9 +82,7 @@ filosofia: >
 ---
 
 <!-- ===================== OBJETIVOS ATUAIS ===================== -->
-<h2 align="center">`03.` OBJETIVOS_ATUAIS.log</h2>
-
-<div align="center">
+## `03.` OBJETIVOS_ATUAIS.log
 
 ```bash
 seu_usuario@github:~$ cat objetivos_2026.log
@@ -101,73 +99,45 @@ seu_usuario@github:~$ echo "Progresso contínuo. Sempre em build."
 seu_usuario@github:~$ _
 ```
 
-</div>
-
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">`04.` ANALYTICS_DASHBOARD.exe</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=10" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00fff9&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff9" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff9&line=ff00ff&point=ffffff&area=true&area_color=00fff9" width="100%"/>
-
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">`05.` ACHIEVEMENTS.trophy</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
 ---
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-<h2 align="center">`06.` CONTRIBUTION_MATRIX.anim</h2>
+## `06.` CONTRIBUTION_MATRIX.anim
 
-<div align="center">
+<div alignh="center">
 
 <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
-> 💡 **Como ativar a animação da cobrinha:** crie um repositório com o mesmo nome do seu usuário, adicione o workflow `Platane/snk` em `.github/workflows/snake.yml` e ative o GitHub Actions. O SVG gerado será publicado automaticamente na branch `output`.
-
 ---
 
 <!-- ===================== REDES SOCIAIS ===================== -->
-<h2 align="center">`07.` CONNECT.link</h2>
+## `07.` CONNECT.link
 
-<div align="center">
+<div alignh="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff9?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/SEU_INSTAGRAM)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00fff9)](https://x.com/SEU_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_DISCORD)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00fff9)](https://seuportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lekinhoo_5/?hl=pt)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Weslley.viniocius122Gmail.com)
 
 </div>
 
 ---
 
 <!-- ===================== RODAPÉ ===================== -->
-<div align="center">
+<div alignh="center">
 
-```text
-> SYSTEM LOG: Conexão estabelecida com sucesso.
-> Obrigado(a) pela visita, human.
-> Encerrando sessão em 3... 2... 1...
+```ansi
+[0;36m> SYSTEM LOG: [1;32mConexão estabelecida com sucesso.[0m
+[0;36m> [1;35mObrigado(a) pela visita, human.[0m
+[0;36m> [0;37mEncerrando sessão em 3... 2... 1...[0m
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
