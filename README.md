@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff9&fontAlignY=38&desc=Initializing%20Profile%20of%20Weslley_Vinicius&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff9&fontAlignY=38&desc=Initializing%20Profile%20of%20Weslley&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="#">
