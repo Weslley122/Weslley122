@@ -104,7 +104,7 @@ seu_usuario@github:~$ _
 <!-- ===================== GITHUB STATS ===================== -->
 ## `04.` ANALYTICS_DASHBOARD.exe
 
-<div align="center">
+<div alignh="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=10" width="49%"/>
@@ -120,7 +120,7 @@ seu_usuario@github:~$ _
 <!-- ===================== TROPHIES ===================== -->
 ## `05.` ACHIEVEMENTS.trophy
 
-<div align="center">
+<div alignh="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
@@ -131,7 +131,7 @@ seu_usuario@github:~$ _
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## `06.` CONTRIBUTION_MATRIX.anim
 
-<div align="center">
+<div alignh="center">
 
 <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -142,7 +142,7 @@ seu_usuario@github:~$ _
 <!-- ===================== REDES SOCIAIS ===================== -->
 ## `07.` CONNECT.link
 
-<div align="center">
+<div alignh="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff9?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lekinhoo_5/?hl=pt)
@@ -153,7 +153,7 @@ seu_usuario@github:~$ _
 ---
 
 <!-- ===================== RODAPÉ ===================== -->
-<div align="center">
+<div alignh="center">
 
 ```ansi
 [0;36m> SYSTEM LOG: [1;32mConexão estabelecida com sucesso.[0m
