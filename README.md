@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ===================== BOOT SEQUENCE ===================== -->
-<div align="center">
+<div alignh="center">
 
 ```ansi
 [0;36m╔══════════════════════════════════════════════════════════════╗[0m
@@ -166,4 +166,3 @@ seu_usuario@github:~$ _
 <sub>⚡ Feito com precisão, café e algumas linhas de código de sobra ⚡</sub>
 
 </div>
-
