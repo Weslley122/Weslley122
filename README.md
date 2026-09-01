@@ -44,11 +44,10 @@
 
 ```yaml
 identidade:
-  nome: "Seu Nome"
-  alias: "SEU_USUARIO"
-  localização: "Cidade, País"
-  função: "Desenvolvedor(a) Full-Stack"
-  foco_atual: "Inteligência Artificial & Sistemas Distribuídos"
+  nome: "Weslley vinicius"
+  alias: "Weslley122"
+  localização: "Macapá, PA"
+  função: "Desenvolvedor Full-Stack"
 
 características:
   - 🧠 Aprendizado contínuo e curiosidade orientada a dados
