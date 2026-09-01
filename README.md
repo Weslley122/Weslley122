@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SYSTEM%20ACCESS%20COUNT&color=00fff9&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Weslley vinicius&label=SYSTEM%20ACCESS%20COUNT&color=00fff9&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff9?style=for-the-badge&labelColor=0f0c29)
 ![Uptime](https://img.shields.io/badge/UPTIME-∞-ff00ff?style=for-the-badge&labelColor=0f0c29)
 
@@ -137,8 +137,6 @@ seu_usuario@github:~$ _
 
 </div>
 
-> 💡 **Como ativar a animação da cobrinha:** crie um repositório com o mesmo nome do seu usuário, adicione o workflow `Platane/snk` em `.github/workflows/snake.yml` e ative o GitHub Actions. O SVG gerado será publicado automaticamente na branch `output`.
-
 ---
 
 <!-- ===================== REDES SOCIAIS ===================== -->
@@ -147,11 +145,8 @@ seu_usuario@github:~$ _
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff9?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/SEU_INSTAGRAM)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00fff9)](https://x.com/SEU_TWITTER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_DISCORD)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00fff9)](https://seuportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lekinhoo_5/?hl=pt)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Weslley.viniocius122Gmail.com)
 
 </div>
 
