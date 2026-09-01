@@ -1,426 +1,174 @@
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    JARVIS // GITHUB OS                    -->
+<!-- ===================== BANNER PRINCIPAL ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff9&fontAlignY=38&desc=Initializing%20Profile%20of%20SEU_NOME&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- ========================================================= -->
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+neural+interface...;%3E+Welcome%2C+I+am+SEU_NOME;%3E+Full-Stack+Developer+%7C+AI+Enthusiast;%3E+Status%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SYSTEM%20ACCESS%20COUNT&color=00fff9&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff9?style=for-the-badge&labelColor=0f0c29)
+![Uptime](https://img.shields.io/badge/UPTIME-∞-ff00ff?style=for-the-badge&labelColor=0f0c29)
+
+</div>
+
+<br/>
+
+<!-- ===================== BOOT SEQUENCE ===================== -->
+<div align="center">
+
+```ansi
+[0;36m╔══════════════════════════════════════════════════════════════╗[0m
+[0;36m║[0m  [1;32mBOOT SEQUENCE INITIATED...[0m                                    [0;36m║[0m
+[0;36m╠══════════════════════════════════════════════════════════════╣[0m
+[0;36m║[0m  [0;37m> Loading kernel modules ............................ [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Mounting developer core ............................ [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Establishing neural link ........................... [OK][0m    [0;36m║[0m
+[0;36m║[0m  [0;37m> Syncing GitHub activity stream ..................... [OK][0m    [0;36m║[0m
+[0;36m║[0m  [1;35m> IDENTITY CONFIRMED: SEU_NOME [J.A.R.V.I.S PROTOCOL][0m         [0;36m║[0m
+[0;36m╚══════════════════════════════════════════════════════════════╝[0m
+```
+
+</div>
+
+<br/>
+
+<!-- ===================== SOBRE MIM ===================== -->
+## `01.` <img src="https://media.tenor.com/hSTeSSmpJmMAAAAi/mrbeast-crazy.gif" width="0"/> SOBRE_MIM.exe
+
+<img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+identidade:
+  nome: "Seu Nome"
+  alias: "SEU_USUARIO"
+  localização: "Cidade, País"
+  função: "Desenvolvedor(a) Full-Stack"
+  foco_atual: "Inteligência Artificial & Sistemas Distribuídos"
+
+características:
+  - 🧠 Aprendizado contínuo e curiosidade orientada a dados
+  - ⚙️  Construo sistemas escaláveis e interfaces de alta performance
+  - 🚀 Apaixonado(a) por automação, IA e arquitetura de software
+  - 🌐 Colaboro em projetos open-source
+
+filosofia: >
+  "Código é a linguagem que transforma ideias em realidade."
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## `02.` TECH_STACK.sys
 
 <div align="center">
 
-# `> SYSTEM ONLINE_`
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+CORE...;LOADING+SKILLS...;SYSTEM+STATUS%3A+ONLINE;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE"/>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,nodejs&theme=dark" />
 
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=black">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black">
-<img src="https://img.shields.io/badge/FOCUS-BUILDING-8A2BE2?style=for-the-badge&logo=target&logoColor=white">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS">
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 </div>
 
 ---
 
-## `01 // BOOT SEQUENCE`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    J.A.R.V.I.S. CORE                         │
-├──────────────────────────────────────────────────────────────┤
-│ [✓] Neural interface ................. ONLINE                │
-│ [✓] Developer profile ................ ONLINE                │
-│ [✓] Front-end systems ................ ONLINE                │
-│ [✓] Back-end systems ................. ONLINE                │
-│ [✓] TypeScript engine ................ ONLINE                │
-│ [✓] React environment ............... ONLINE                │
-│ [✓] Git version control ............. ONLINE                 │
-│ [✓] Creative module .................. ONLINE                │
-│                                                              │
-│ STATUS: READY FOR DEPLOYMENT                                 │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-### `// DEVELOPER SIGNAL`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Code+is+the+interface+between+ideas+and+reality.;Think.+Build.+Break.+Learn.+Repeat.;Turning+problems+into+digital+experiences.;Always+learning.+Always+building."
-
-/>
-
-</div>
-
----
-
-# `02 // SOBRE MIM`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## `> WHO_AM_I?`
-
-Sou um desenvolvedor apaixonado por tecnologia, interfaces modernas e criação de soluções digitais.
-
-Meu foco está em transformar ideias em experiências funcionais, rápidas e visualmente marcantes.
-
-```js
-const developer = {
-    role: "Full Stack Developer",
-    mindset: "Always Learning",
-    passion: [
-        "Web Development",
-        "Modern UI/UX",
-        "Problem Solving",
-        "Technology"
-    ],
-    mission:
-        "Build something that matters."
-};
-```
-
-</td>
-
-<td width="45%" valign="top">
-
-## `> CORE VALUES`
-
-```text
-╔═══════════════════════╗
-║  ⚡ PERFORMANCE       ║
-║  ◉ CLEAN CODE        ║
-║  ◆ DESIGN            ║
-║  ▲ LEARNING          ║
-║  ⌁ CREATIVITY        ║
-║  ◎ CONSISTENCY       ║
-╚═══════════════════════╝
-```
-
-**Current Status**
-
-`ONLINE` ●
-
-**Mindset**
-
-`BUILD > PERFECT`
-
-**Objective**
-
-`EVOLVE EVERY DAY`
-
-</td>
-</tr>
-</table>
-
----
-
-# `03 // TECH STACK`
-
-<div align="center">
-
-### `FRONT-END`
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<br><br>
-
-### `BACK-END`
-
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF">
-
-<br><br>
-
-### `DATABASE`
-
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248">
-
-<br><br>
-
-### `TOOLS`
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E">
-<img src="https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF">
-
-</div>
-
----
-
-# `04 // DEVELOPMENT ENVIRONMENT`
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                    DEVELOPMENT STACK                       │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  IDE             → Visual Studio Code                      │
-│  VERSION CONTROL → Git / GitHub                            │
-│  API             → REST / HTTP                             │
-│  DESIGN          → Figma                                   │
-│  TERMINAL        → PowerShell / Bash                       │
-│  TESTING         → Insomnia / Browser DevTools             │
-│                                                            │
-│  WORKFLOW        → BUILD → TEST → DEBUG → DEPLOY          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `05 // PROJECT DATABASE`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## `◈ PROJECT_01`
-
-### `Cyber Dashboard`
-
-> Interface administrativa com estética futurista, componentes reutilizáveis e experiência responsiva.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## `◈ PROJECT_02`
-
-### `React Application`
-
-> Aplicação moderna construída com React e TypeScript, focada em organização, performance e escalabilidade.
-
-**Tech**
-
-`React` `TypeScript` `CSS`
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## `◈ PROJECT_03`
-
-### `API System`
-
-> Backend estruturado para gerenciamento de dados através de uma API REST.
-
-**Tech**
-
-`Node.js` `Express` `REST API`
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## `◈ PROJECT_04`
-
-### `Portfolio`
-
-> Portfólio pessoal com foco em identidade visual, responsividade e experiência do usuário.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# `06 // CURRENT OBJECTIVES`
+<!-- ===================== OBJETIVOS ATUAIS ===================== -->
+## `03.` OBJETIVOS_ATUAIS.log
 
 ```bash
-┌──[ SEU_USUARIO@github ]──[ ~/mission ]
-│
-├── $ echo "CURRENT OBJECTIVES"
-│
-├── [███████████████████░] 95%  Master Front-End
-├── [████████████████░░░░] 80%  TypeScript
-├── [██████████████░░░░░░] 70%  React Ecosystem
-├── [████████████░░░░░░░░] 60%  Back-End
-├── [██████████░░░░░░░░░░] 50%  System Design
-│
-├── $ next_target
-│
-├── > Build scalable applications
-├── > Improve architecture skills
-├── > Create open-source projects
-├── > Contribute to meaningful products
-│
-└── STATUS: IN PROGRESS...
+seu_usuario@github:~$ cat objetivos_2026.log
+
+[✓] Dominar arquiteturas de sistemas distribuídos
+[✓] Contribuir com projetos open-source relevantes
+[ ] Aprofundar em Machine Learning aplicado a produção
+[ ] Publicar artigos técnicos sobre engenharia de software
+[ ] Construir um SaaS do zero até o deploy
+[ ] Obter certificação em Cloud (AWS/GCP)
+
+seu_usuario@github:~$ echo "Progresso contínuo. Sempre em build."
+> Progresso contínuo. Sempre em build.
+seu_usuario@github:~$ _
 ```
 
 ---
 
-# `07 // GITHUB ANALYTICS`
+<!-- ===================== GITHUB STATS ===================== -->
+## `04.` ANALYTICS_DASHBOARD.exe
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=10" width="49%"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00fff9&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff9" width="70%"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=8A2BE2&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00F7FF&sideNums=FFFFFF&dates=8B949E"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff9&line=ff00ff&point=ffffff&area=true&area_color=00fff9" width="100%"/>
 
 </div>
 
 ---
 
-# `08 // ACTIVITY MATRIX`
+<!-- ===================== TROPHIES ===================== -->
+## `05.` ACHIEVEMENTS.trophy
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=8A2BE2&area=true&hide_border=true"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
 ---
 
-# `09 // TROPHY ROOM`
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## `06.` CONTRIBUTION_MATRIX.anim
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
-/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> 💡 **Como ativar a animação da cobrinha:** crie um repositório com o mesmo nome do seu usuário, adicione o workflow `Platane/snk` em `.github/workflows/snake.yml` e ative o GitHub Actions. O SVG gerado será publicado automaticamente na branch `output`.
+
+---
+
+<!-- ===================== REDES SOCIAIS ===================== -->
+## `07.` CONNECT.link
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff9?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/SEU_INSTAGRAM)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00fff9)](https://x.com/SEU_TWITTER)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_DISCORD)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00fff9)](https://seuportfolio.com)
 
 </div>
 
 ---
 
-# `10 // CONTRIBUTION MATRIX`
-
+<!-- ===================== RODAPÉ ===================== -->
 <div align="center">
 
-### `NEURAL ACTIVITY // CONTRIBUTION SNAKE`
-
-<img
-src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
-/>
-
-</div>
-
-> **Note:** para personalizar o Snake com suas contribuições reais, adicione a GitHub Action do `Platane/snk` ao repositório do seu perfil.
-
----
-
-# `11 // SOCIAL NETWORK`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF">
-</a>
-
-<a href="https://www.instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF">
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-</div>
-
----
-
-# `12 // FINAL TRANSMISSION`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       "THE FUTURE IS BUILT ONE LINE AT A TIME."      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+```ansi
+[0;36m> SYSTEM LOG: [1;32mConexão estabelecida com sucesso.[0m
+[0;36m> [1;35mObrigado(a) pela visita, human.[0m
+[0;36m> [0;37mEncerrando sessão em 3... 2... 1...[0m
 ```
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=SYSTEM+READY.;KEEP+BUILDING.;KEEP+LEARNING.;SEE+YOU+IN+THE+NEXT+COMMIT."
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/MADE_WITH-CODE_&_COFFEE-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF">
-
-<br><br>
-
-`© 2026 SEU_USUARIO // ALL SYSTEMS OPERATIONAL`
+<sub>⚡ Feito com precisão, café e algumas linhas de código de sobra ⚡</sub>
 
 </div>
-
-<!-- ========================================================= -->
-
-<!--                END OF SYSTEM // JARVIS                    -->
-
-<!-- ========================================================= -->
-
