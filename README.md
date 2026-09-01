@@ -9,8 +9,7 @@
 # `> SYSTEM ONLINE_`
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+CORE...;LOADING+SKILLS...;SYSTEM+STATUS%3A+ONLINE;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE"
-/>
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+CORE...;LOADING+SKILLS...;SYSTEM+STATUS%3A+ONLINE;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE"/>
 
 <br>
 
