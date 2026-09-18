@@ -1,4 +1,3 @@
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyvinicius122)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weslleyvinicius122)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslley.lekinho122@gmail.com)
@@ -9,7 +8,7 @@
 ## Oi! Eu sou o Weslley 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas · Anhanguera**
-💻 **Desenvolvedor Fullstack em formação | HTML · CSS · JavaScript · Java · React**
+💻 **Desenvolvedor Fullstack em formação | HTML · CSS · JavaScript · Java · React · MySQL · React Native · Bootsrap · JQuery
 
 ---
 
