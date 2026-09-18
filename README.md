@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleyvinicius122)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weslleyvinicius122)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Weslley122)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslley.lekinho122@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591986192366)
 
@@ -7,8 +7,8 @@
 
 ## Oi! Eu sou o Weslley 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas · Anhanguera**
-💻 **Desenvolvedor Fullstack em formação | HTML · CSS · JavaScript · Java · React · MySQL · React Native · Bootsrap · JQuery
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas · Anhanguera** 
+💻 **Desenvolvedor Fullstack em formação | HTML · CSS · JavaScript · Java · React · BootStrap · MySQL · JQuery
 
 ---
 
@@ -45,5 +45,5 @@ Estou aberto a oportunidades de estágio e desafios técnicos onde eu possa apre
 
 ## 📊 GitHub Stats
 
-![Weslley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslleyvinicius122&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyvinicius122&layout=compact&theme=transparent&hide_border=true)
+![Weslley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weslley122&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley122&layout=compact&theme=transparent&hide_border=true)
