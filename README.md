@@ -40,10 +40,3 @@ Tenho disposição para aprender, assumir responsabilidades e contribuir com o q
 ## 🌐 Vamos construir algo juntos?
 
 Estou aberto a oportunidades de estágio e desafios técnicos onde eu possa aprender e crescer profissionalmente.
-
----
-
-## 📊 GitHub Stats
-
-![Weslley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weslley122&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley122&layout=compact&theme=transparent&hide_border=true)
