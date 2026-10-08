@@ -7,8 +7,8 @@
 
 ## Oi! Eu sou o Weslley 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas · Anhanguera** 
-💻 **Desenvolvedor Fullstack em formação | HTML · CSS · JavaScript · Java · React · BootStrap · MySQL · JQuery
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas · Anhanguera**
+💻 **Desenvolvedor Full Stack em formação | Java · Spring Boot · C# · Angular · React · PostgreSQL · REST API**
 
 ---
 
@@ -23,17 +23,15 @@
 
 ## 🧭 Minha jornada
 
-Estou em busca da minha **primeira oportunidade de estágio ou vaga Júnior** na área de tecnologia, com foco em **desenvolvimento fullstack**. Meu objetivo é transformar ideias em aplicações funcionais, organizadas e intuitivas.
+Estou em busca da minha **primeira oportunidade de estágio ou vaga Júnior** na área de tecnologia, com foco em **desenvolvimento Full Stack**. Meu objetivo é transformar ideias em aplicações funcionais, organizadas e intuitivas.
 
 Tenho disposição para aprender, assumir responsabilidades e contribuir com o que já sei, enquanto continuo evoluindo ao lado de uma equipe experiente.
-
-*"Cada linha de código é uma oportunidade de transformar uma ideia em realidade."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,java,react,mysql,bootstrap,jquery&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,cs,angular,react,postgres&perline=6)](https://skillicons.dev)
 
 ---
 
